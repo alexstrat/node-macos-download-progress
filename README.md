@@ -33,7 +33,7 @@ var timer = setInterval(() => {
 }, 1000);
 ```
 
-Also, see [examples directory](https://github.com/alexstrat/node-macos-download-progress/master/.examples).
+Also, see [examples directory](https://github.com/alexstrat/node-macos-download-progress/tree/master/examples).
 
 # API
 _wip_
