@@ -1,0 +1,13 @@
+{
+  "name": "macos-download-progress",
+  "version": "0.0.0",
+  "description": "Display and control file download progress bar on macOS",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "nodobjc": "^2.1.0"
+  },
+  "devDependencies": {
+    "untildify": "^3.0.2"
+  }
+}
