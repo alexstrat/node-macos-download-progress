@@ -1,7 +1,8 @@
 {
   "name": "macos-download-progress",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Display and control file download progress bar on macOS",
+  "repository": "alexstrat/node-macos-download-progress",
   "main": "src/index.js",
   "license": "MIT",
   "dependencies": {

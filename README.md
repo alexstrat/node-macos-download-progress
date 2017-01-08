@@ -3,7 +3,6 @@ Display and control file download progress bar on macOS.
 ![screenshot](https://github.com/alexstrat/node-macos-download-progress/raw/master/.github/screenshot.png)
 
 # Installation
-:warning: _not published on npm yet_
 
 ```bash
 $ npm install --save macos-download-progress
